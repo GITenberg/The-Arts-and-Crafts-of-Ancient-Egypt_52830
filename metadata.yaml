@@ -1,5 +1,8 @@
 _repo: The-Arts-and-Crafts-of-Ancient-Egypt_52830
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52830-h/images/cover.jpg
 creator:
   author:
     agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2454
     wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52830#The-Arts-and-Crafts-of-Ancient-Egypt
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
